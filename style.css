@@ -387,6 +387,9 @@ justify-content: center;
 text-align: center;
 
 }
+#footer .footer1 {
+background-color: #ffe6dd;
+}
 #footer .social-items {
 margin: auto 0 auto 80px;
 
